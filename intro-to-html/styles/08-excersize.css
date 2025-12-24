@@ -1,0 +1,145 @@
+.name{
+  display: block;
+  margin-top: 4px;
+
+}
+.email{
+  display: block;
+  margin-top: 4px;
+}
+
+
+.call-support{
+  display: inline-block;
+  width: 150px;
+  vertical-align: middle;
+}
+
+img{
+  display: block ;
+ width: 300px;
+ padding-left: 200px;
+  object-fit: cover;
+  size: 12px;
+  
+
+}
+
+
+.Google-search{
+ margin-top: 7px;
+ margin-bottom: 9px;
+  padding:10px 300px 10px 12px;
+  margin-left: 100px;
+    border-style: solid;
+  font-size: 12px;
+  margin-bottom: 4px;
+  font-size: 12px;
+  border-radius: 18px;
+  border-width: 0.1pt;
+border-color: lightgray;
+
+
+
+  
+}
+
+
+
+.firstName,.lastName{
+  display: inline-block;
+  padding: 6px 6px 6px 6px;
+  border-radius: 6px;
+  margin-bottom: 2px;
+  border-style: solid;
+  width: 93px;
+  opacity: 0.8;
+
+}
+
+.email{
+
+    padding: 6px 93px 6px 8px;
+  border-radius: 6px;
+  border-style: solid;
+    margin-bottom: 2px;
+  opacity: 0.8;
+  
+
+}
+
+.sign-up{
+  text-align:  center;
+  color: rgb(255, 255, 255);
+  background-color:rgb(10, 102, 194);
+  border-radius: 4px;
+  font-size: 13px;
+border-width: 1px;
+width: 220px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-style: solid;
+  border-color: rgb(10, 102, 194);
+  cursor: pointer;
+
+
+
+}
+
+.uber{
+  display:block;
+  font-size:24px ;
+  font-family: arial;
+
+}
+
+
+.location{
+  display: block;
+ padding: 6px 100px 6px 6px;
+ border-radius: 2px;
+ border-style: solid;
+ background-color:rgb(238, 237, 237);
+ border-color: rgb(238, 237, 237);
+ color: gray;
+ margin-bottom: 8px;
+ 
+ border-width: 1px;
+
+
+
+}
+.destination{
+    display: block;
+ padding: 6px 100px 6px 6px;
+ border-radius: 2px;
+ border-style: solid;
+ background-color:rgb(238, 237, 237);
+ border-color: rgb(238, 237, 237);
+ color: gray;
+ margin-bottom: 8px;
+ 
+ border-width: 1px;
+
+}
+
+.request-now{
+  margin-top: 12px;
+  padding: 4px 8px 4px 8px ;
+  color: white;
+  background-color: black;
+  border-radius: 1px;
+  margin-right: 8px;
+font-size: 12px;
+}
+.later{
+
+  margin-right: 12px;
+  font-size: 12px;
+  padding: 4px 8px 4px 8px;
+   background-color:rgb(238, 237, 237);
+ border-color: rgb(238, 237, 237);
+ border-style: solid;
+
+
+}
