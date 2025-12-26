@@ -1,0 +1,36 @@
+p{
+  font-family: Roboto,arial;
+}
+
+.cart{
+  border-style: 1px solid;
+border-color:   rgb(66,66,66);
+  padding-left: 4px;
+
+}
+.image{
+ width: 180px;
+}
+
+.image-int{
+  display: inline;
+
+}
+
+.mutual-friends{
+  font-size: 8px;
+  color: rgb(66,66,66);
+}
+
+
+
+.button{
+  color: white;
+  background-color:  rgb(15, 167, 227);
+  border-color:  rgb(15, 167, 227);
+  border-style: solid;
+  padding: 4px 8px 4px 8px ;
+  font-size: 12px;
+  border-radius: 4px;
+}
+
